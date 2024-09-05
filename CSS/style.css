@@ -1,0 +1,40 @@
+/* @media (max-width:500px){
+    #menu{
+        display: none;
+    }
+    #logo-txt{
+       position: relative;
+       text-align: center;
+       font-size: 1.7rem;
+       margin-bottom: -4rem;
+    }
+    #logo-img{
+        width: 3rem;
+        height: 3rem;
+        margin-left: -10px;
+        display: none;
+    }
+    .intro{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    }
+    .body{
+        margin-left: -0.7rem;
+    }
+    #image{
+        float: left;
+        top: 10rem;
+        width: 9rem;
+        height: 9rem;
+        display: none;
+    }
+    .connect{
+        margin-left:-9rem;
+        margin-top: -2rem;
+        font-size: 10px;
+    }
+    .icons{
+        margin-left: -8rem;
+    }
+  
+} */
